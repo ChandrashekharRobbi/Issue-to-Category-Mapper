@@ -16,7 +16,7 @@ Welcome to the **Issue-to-Category-Mapper**! This tool aids users in predicting 
 5. Receive the product category prediction instantly!
 
 ### 🔗 Try the Live Demo
-For a hands-on experience and to see this tool in action, check out the live demo [here](#https://huggingface.co/spaces/crobbi/Issue-to-Category-Mapper).
+For a hands-on experience and to see this tool in action, check out the live demo [here](https://huggingface.co/spaces/crobbi/Issue-to-Category-Mapper).
 
 ### 🤝 Contributions
 Feel free to fork this repository, submit pull requests, or raise issues. Your feedback and contributions are always welcomed!
