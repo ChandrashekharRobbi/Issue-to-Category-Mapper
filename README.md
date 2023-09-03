@@ -1,5 +1,6 @@
----
 ## 📌 Issue-to-Category-Mapper
+![Screenshot (725)](https://github.com/ChandrashekharRobbi/Issue-to-Category-Mapper/assets/91750738/7354d644-0aa5-4c8d-8818-bb431e8edbb2)
+
 
 Welcome to the **Issue-to-Category-Mapper**! This tool aids users in predicting the product category based on the provided `issue` and `sub-issue`. Whether you're managing a large inventory, troubleshooting products, or simply want to categorize products based on common issues, this mapper can simplify the process for you.
 
